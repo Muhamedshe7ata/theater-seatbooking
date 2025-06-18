@@ -5,7 +5,7 @@ namespace Database;
 class Connection
 {
     const HOST = 'theaterappserverdb.mysql.database.azure.com';
-    const DB_NAME = 'theaterappserverdb';
+    const DB_NAME = 'theaterdb';
     const USERNAME = 'mohamed';
     const PASSWORD = 'momo2025#$';
 
