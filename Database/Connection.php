@@ -8,7 +8,7 @@ use PDOException; // Make sure this is imported
 class Connection
 {
     const HOST = 'theaterappserverdb.mysql.database.azure.com';
-    const DB_NAME = 'theatredb';
+    const DB_NAME = 'theaterdb';
     const USERNAME = 'mohamed';
     const PASSWORD = 'momo2025#$';
 
